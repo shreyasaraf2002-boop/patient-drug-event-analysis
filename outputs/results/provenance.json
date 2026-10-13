@@ -1,0 +1,18 @@
+{
+  "input_filename": "2025_merged.csv",
+  "input_sha256": "9205a866870a80e17c6b0f700db3b7c4bf31623cc21f60e31889cbb16bbbac48",
+  "input_bytes": 60103960,
+  "python": "3.12.14",
+  "packages": {
+    "pandas": "2.2.3",
+    "numpy": "2.2.6",
+    "matplotlib": "3.10.3",
+    "scikit-learn": "1.6.1",
+    "imbalanced-learn": "0.13.0",
+    "joblib": "1.5.1"
+  },
+  "seed": 42,
+  "baseline_sample": 65000,
+  "smotenc_sample": 15000,
+  "input_kind": "User-supplied merged adverse-event CSV; not fetched directly from OpenFDA"
+}

@@ -1,0 +1,201 @@
+Country,Gender,Weight,Reaction_0,Reaction_1,Reaction_2,Sender_Org,Seriousness_Death,Seriousness_Disabling,Seriousness_Hospitalization,transmissiondate,Chemical_Compound,Drug_Indication,Drug/Brand name
+GR,2.0,,Premature delivery,Exposure during pregnancy,,RANBAXY,2.0,2.0,2.0,20250717.0,EMPAGLIFLOZIN,Hodgkin^s disease nodular sclerosis stage IV,DIGOXIN
+CA,,,Ulcer,Infected skin ulcer,Tooth infection,CELLTRION,2.0,2.0,1.0,20250716.0,TEDUGLUTIDE,Pain,RITUXIMAB
+,,,,,,,,,,,TAMSULOSIN,,CHOLESTYRAMINE
+RO,,,Death,,,ALEXION PHARMACEUTICALS,1.0,2.0,2.0,20250717.0,BELIMUMAB,Product used for unknown indication,DAPAGLIFLOZIN
+,,,,,,,,,,,RISPERIDONE,,
+US,,,Balance disorder,Therapy interrupted,,SUNOVION,2.0,2.0,2.0,20250717.0,ENOXAPARIN SODIUM,Immune thrombocytopenia,ORGOVYX
+PL,2.0,,Neutropenia,Dyspepsia,Joint stiffness,NOVARTIS,2.0,2.0,2.0,20250717.0,OSIMERTINIB,Prostate cancer,KISQALI
+,,,,,,,,,,,REMIFENTANIL,,
+US,2.0,78.0,Nephrolithiasis,Stoma site haemorrhage,Malaise,TAKEDA,2.0,2.0,2.0,20250716.0,UPADACITINIB,Product used for unknown indication,TEDUGLUTIDE
+,,,,,,,,,,,ABATACEPT,,ABRAXANE
+CA,2.0,,Nephrolithiasis,Inappropriate schedule of product administration,,SANDOZ,2.0,2.0,2.0,20250716.0,GOLIMUMAB,Psoriasis,ZOLEDRONIC ACID
+,,,,,,,,,,,HEPARIN SODIUM,Diabetes mellitus,DULOXETINE
+,,,,,,,,,,,CALCIUM CHLORIDE\ICODEXTRIN\MAGNESIUM CHLORIDE\SODIUM CHLORIDE\SODIUM LACTATE,Chemotherapy,ZEPBOUND
+,,,,,,,,,,,UPADACITINIB,,INFLECTRA
+,,,,,,,,,,,PNEUMOCOCCAL 20-VALENT CONJUGATE VACCINE,,
+IR,,,Subacute cutaneous lupus erythematosus,,,SOLA PHARMACEUTICALS,2.0,2.0,2.0,20250717.0,CARBOPLATIN,Depression,TERIFLUNOMIDE
+US,2.0,,Feeding disorder,Constipation,,ELI LILLY AND COMPANY,2.0,2.0,2.0,20250716.0,OXALIPLATIN,Axial spondyloarthritis,ZEPBOUND
+US,2.0,55.45,Drug effective for unapproved indication,,,RECKITT BENCKISER,2.0,2.0,2.0,20250717.0,VENETOCLAX,Osteoporosis,MUCINEX
+JP,1.0,,Bronchitis,Pyloric stenosis,,ROCHE,,,,20250717.0,SIPONIMOD,Product used for unknown indication,RITUXAN
+CA,2.0,,Ocular cyst,,,REGENERON,2.0,2.0,2.0,20250716.0,DUPILUMAB,Schizophrenia,EYLEA
+,,,,,,,,,,,GEMCITABINE HYDROCHLORIDE,Product used for unknown indication,LEVOTHYROXINE
+,,,,,,,,,,,CYANOCOBALAMIN,,GEMCITABINE HYDROCHLORIDE
+,,,,,,,,,,,ACYCLOVIR,,OLANZAPINE
+,,,,,,,,,,,ASPIRIN,Diabetes mellitus,ARIPIPRAZOLE
+,,,,,,,,,,,MINERALS\VITAMINS,,ZEPBOUND
+,,,,,,,,,,,METHADONE HYDROCHLORIDE,Product used for unknown indication,XGEVA
+,,,,,,,,,,,RELUGOLIX,Hypertension,ORGOVYX
+,,,,,,,,,,,ACETAMINOPHEN,,
+US,2.0,,Human herpesvirus 6 viraemia,Leukopenia,,AMGEN,2.0,2.0,1.0,20250717.0,PALBOCICLIB,Acute lymphocytic leukaemia,PREDNISONE
+FR,2.0,,Systemic lupus erythematosus,,,PFIZER,2.0,2.0,2.0,20250716.0,TOFACITINIB CITRATE,Seizure,IBRANCE
+,,,,,,,,,,,ELACESTRANT,,REMICADE
+FR,1.0,70.0,Oral candidiasis,Oesophageal candidiasis,,TEVA,2.0,2.0,1.0,20250716.0,CLOZAPINE,Seizure,DOXYCYCLINE
+US,2.0,,Dry eye,Injection site pain,,SANOFI AVENTIS,2.0,2.0,2.0,20250717.0,PEGFILGRASTIM-CBQV,Asthma,DUPIXENT
+,,,,,,,,,,,FLUDARABINE PHOSPHATE,Type 2 diabetes mellitus,MYCOPHENOLATE MOFETIL
+US,2.0,,Sedation,Dissociation,,JOHNSON AND JOHNSON,2.0,2.0,2.0,20250717.0,PEMBROLIZUMAB,Product used for unknown indication,SPRAVATO
+US,2.0,,Drug dose omission by device,Device leakage,Device defective,PFIZER,2.0,2.0,2.0,20250716.0,VEDOLIZUMAB,COVID-19 treatment,GENOTROPIN
+US,1.0,100.0,Haematochezia,Rectal haemorrhage,Therapeutic reaction time decreased,TAKEDA,2.0,2.0,2.0,20250716.0,PONATINIB,Acute myeloid leukaemia,VEDOLIZUMAB
+US,1.0,65.76,Haemorrhage,Joint injury,,CSL BEHRING,2.0,2.0,2.0,20250717.0,ISOTRETINOIN,Product used for unknown indication,HUMATE-P
+CN,1.0,70.0,Arrhythmia,Palpitations,Erythema,BAYER HEALTHCARE PHARMACEUTICALS INC.,2.0,2.0,1.0,20250716.0,RELUGOLIX,Psoriasis,AVELOX
+,,,,,,,,,,,DEVICE,Premenstrual syndrome,PIPERACILLIN AND TAZOBACTAM
+,,,,,,,,,,,BRIMONIDINE TARTRATE,Colitis ulcerative,ZEPBOUND
+,,,,,,,,,,,LEVETIRACETAM,,
+,,,,,,,,,,,RITUXIMAB,,XOLAIR PFS
+JP,1.0,,Paraesthesia,,,MERCK SHARP AND DOHME,2.0,2.0,2.0,20250716.0,EVOLOCUMAB,Product used for unknown indication,KEYTRUDA
+,,,,,,,,,,,IRON,Mycobacterium abscessus infection,MOUNJARO
+,,,,,,,,,,,REVUMENIB CITRATE,,FENOFIBRATE
+US,2.0,,Retinal disorder,Blindness,,NOVO NORDISK,2.0,2.0,2.0,20250717.0,TIRZEPATIDE,Colorectal cancer metastatic,NOVOLIN R
+US,2.0,,Dermatitis atopic,,,SANOFI AVENTIS,2.0,2.0,2.0,20250716.0,AXICABTAGENE CILOLEUCEL,Philadelphia positive acute lymphocytic leukaemia,DUPIXENT
+US,1.0,,Herpes simplex encephalitis,Dermatitis atopic,,ABBVIE,2.0,2.0,1.0,20250716.0,BLINATUMOMAB,Pruritus,RINVOQ
+CA,1.0,,Hyperhidrosis,Drug ineffective,Off label use,TEVA,2.0,2.0,2.0,20250717.0,RISANKIZUMAB-RZAA,Prophylaxis,PROPRANOLOL
+MX,1.0,,Drug interaction,,,AUROBINDO,2.0,2.0,1.0,20250716.0,MEROPENEM,Crohn^s disease,TRAMADOL
+US,2.0,61.224,Blood glucose increased,Dry mouth,Stomatitis,PFIZER,2.0,2.0,1.0,20250716.0,DUPILUMAB,Restless legs syndrome,IBRANCE
+US,2.0,,Product dose omission issue,Product delivery mechanism issue,,APOTEX,2.0,2.0,2.0,20250716.0,NALTREXONE,Hodgkin^s disease,FLUTICASONE PROPIONATE
+,,,,,,,,,,,CARBIDOPA\LEVODOPA,,ELOCTATE
+,,,,,,,,,,,GUSELKUMAB,,ZEPBOUND
+US,2.0,,Product dose omission issue,Device issue,,JOHNSON AND JOHNSON,2.0,2.0,2.0,20250716.0,RISANKIZUMAB-RZAA,Product used for unknown indication,STELARA
+,,,,,,,,,,,CLOPIDOGREL BISULFATE,,RITUXIMAB
+,,,,,,,,,,,BIMEKIZUMAB-BKZX,Dermatomyositis,DUPIXENT
+,,,,,,,,,,,TIRZEPATIDE,Triple negative breast cancer,PADCEV
+,2.0,63.05,Blood glucose decreased,Vomiting,Device information output issue,FDA-CTU,2.0,2.0,1.0,20250716.0,FULVESTRANT,Product used for unknown indication,HUMALOG
+CN,1.0,,Phaeochromocytoma crisis,Phaeochromocytoma,Off label use,PFIZER,2.0,2.0,2.0,20250716.0,ICATIBANT ACETATE,Product used for unknown indication,METHYLPREDNISOLONE
+US,1.0,,Heart rate increased,,,JOHNSON AND JOHNSON,2.0,2.0,2.0,20250717.0,TEZEPELUMAB-EKKO,Eczema,MACITENTAN\TADALAFIL
+,,,,,,,,,,,EPINEPHRINE,,FLUCONAZOLE
+,,,,,,,,,,,ACETAMINOPHEN,Product used for unknown indication,SKYRIZI
+GB,2.0,,Colitis ulcerative,Arthropathy,,TAKEDA,2.0,2.0,2.0,20250717.0,ETHINYL ESTRADIOL\NORELGESTROMIN,Product used for unknown indication,VEDOLIZUMAB
+,,,,,,,,,,,BUDESONIDE\FORMOTEROL FUMARATE DIHYDRATE,,ACETAMINOPHEN
+,,,,,,,,,,,DUPILUMAB,Cerebrovascular accident,CIMZIA
+,,,,,,,,,,,TIRZEPATIDE,Product used for unknown indication,FEMRING
+,,,,,,,,,,,ATEZOLIZUMAB,Agitation,ALBUTEROL SULFATE
+US,1.0,,Injection site pain,,,SANOFI AVENTIS,2.0,2.0,2.0,20250717.0,AVAPRITINIB,Dermatitis atopic,DUPIXENT
+,,,,,,,,,,,INFLIXIMAB-DYYB,Product used for unknown indication,LORAZEPAM
+,,,,,,,,,,,LEUPROLIDE ACETATE,Eczema,TAVALISSE
+,,,,,,,,,,,DARUNAVIR,Type 2 diabetes mellitus,LANSOPRAZOLE
+CA,1.0,,Cardiac failure chronic,,,PFIZER,2.0,2.0,2.0,20250716.0,RISANKIZUMAB-RZAA,IgA nephropathy,VYNDAQEL
+US,2.0,,Arthralgia,,,ELI LILLY AND COMPANY,2.0,2.0,2.0,20250716.0,LISDEXAMFETAMINE DIMESYLATE,Neurodermatitis,EBGLYSS
+KR,2.0,54.2,Hypoglycaemia,Prescribed underdose,,ELI LILLY AND COMPANY,2.0,2.0,2.0,20250716.0,LEVOTHYROXINE,Immunosuppressant drug therapy,TRULICITY
+US,1.0,,Haemarthrosis,Haemorrhage,Musculoskeletal discomfort,TAKEDA,2.0,2.0,2.0,20250716.0,EMTRICITABINE\TENOFOVIR DISOPROXIL FUMARATE,Parkinson^s disease psychosis,RECOMBINATE
+,,,,,,,,,,,TIRZEPATIDE,,CLONAZEPAM
+DE,,,Multiple sclerosis relapse,,,PFIZER,2.0,2.0,2.0,20250716.0,FENTANYL,Hormone-dependent prostate cancer,RITUXIMAB
+US,,,Eructation,Vomiting,,ELI LILLY AND COMPANY,2.0,2.0,2.0,20250717.0,ESKETAMINE,Atrial fibrillation,MOUNJARO
+,1.0,,Tremor,Cyanosis,,FDA-CTU,2.0,2.0,2.0,20250716.0,TOLVAPTAN,Multiple sclerosis,DALFAMPRIDINE
+,2.0,11.3,Diarrhoea,,,FDA-CTU,2.0,2.0,1.0,20250717.0,CERTOLIZUMAB PEGOL,Psoriatic arthropathy,CARBOPLATIN
+,,,,,,,,,,,METHOTREXATE,Product used for unknown indication,ATORVASTATIN
+,,,,,,,,,,,DAPAGLIFLOZIN,Multiple sclerosis,LENALIDOMIDE
+NL,2.0,,Arrhythmia,Urticaria,Pharyngeal swelling,ORGANON,2.0,2.0,2.0,20250716.0,SILDENAFIL,Product used for unknown indication,DESLORATADINE
+US,1.0,,Dry skin,Skin exfoliation,,SANOFI AVENTIS,2.0,2.0,2.0,20250716.0,NIVOLUMAB,Product used for unknown indication,DUPIXENT
+,,,,,,,,,,,APIXABAN,,VIIBRYD
+US,2.0,,Chronic kidney disease,Renal failure,,GILEAD,2.0,2.0,2.0,20250717.0,ELTROMBOPAG OLAMINE,Hypersensitivity,TRUVADA
+,,,,,,,,,,,"ESTROGENS, CONJUGATED",,LINZESS
+,,,,,,,,,,,MONTELUKAST SODIUM,Acute myeloid leukaemia,TYVASO DPI
+,,,,,,,,,,,DESOGESTREL,Product used for unknown indication,Albutoral
+JP,2.0,62.0,Miller Fisher syndrome,,,ELI LILLY AND CO,2.0,2.0,1.0,20250717.0,FLUTICASONE FUROATE,Immune system disorder,MOUNJARO
+US,,,Inappropriate schedule of product administration,,,GALPHARM INTERNATIONAL,2.0,2.0,2.0,20250717.0,LIFITEGRAST,Rheumatoid arthritis,FEXOFENADINE HYDROCHLORIDE
+US,2.0,,Drug ineffective,,,AUROBINDO,2.0,2.0,2.0,20250717.0,LEBRIKIZUMAB-LBKZ,Product used for unknown indication,FLECAINIDE
+PL,,,Epistaxis,Labelled drug-drug interaction medication error,,AUROBINDO,2.0,2.0,2.0,20250717.0,DURVALUMAB,Urinary tract infection,CLOPIDOGREL
+,,,,,,,,,,,DONANEMAB-AZBT,,MOUNJARO
+US,,,Lacrimation increased,Therapeutic product effect decreased,,SANDOZ,2.0,2.0,2.0,20250717.0,GOLIMUMAB,Cervix carcinoma,AZELASTINE HYDROCHLORIDE
+RU,2.0,67.0,Invasive breast carcinoma,,,BAYER,2.0,2.0,2.0,20250717.0,SOMATROPIN,Rheumatoid arthritis,DIENOGEST\ESTRADIOL VALERATE
+,,,,,,,,,,,PEGFILGRASTIM-CBQV,,SKYRIZI
+,,,,,,,,,,,ADALIMUMAB,Lennox-Gastaut syndrome,PREDNISONE
+,,,,,,,,,,,INSULIN GLARGINE,,JIVI
+US,2.0,,Drug hypersensitivity,Product use in unapproved indication,,SANOFI AVENTIS,2.0,2.0,2.0,20250717.0,DUPILUMAB,Precocious puberty,DUPIXENT
+US,2.0,,Presyncope,,,ABBVIE,2.0,2.0,2.0,20250716.0,RISANKIZUMAB-RZAA,Product used for unknown indication,LILETTA
+US,2.0,,Intercepted product preparation error,,,SANOFI AVENTIS,2.0,2.0,2.0,20250717.0,MONOMETHYL FUMARATE,Eczema,CAPLACIZUMAB-YHDP
+,,,,,,,,,,,INCOBOTULINUMTOXINA,,CABENUVA
+,,,,,,,,,,,FERROUS SULFATE,,AVASTIN
+,,,,,,,,,,,TEDUGLUTIDE,Uterine cancer,RILPIVIRINE
+US,,,Dyspnoea,Wheezing,,LUPIN,2.0,2.0,2.0,20250716.0,BUPRENORPHINE,Coccydynia,ALBUTEROL SULFATE
+,,,,,,,,,,,INSULIN LISPRO,,KEYTRUDA
+,,,,,,,,,,,INFLIXIMAB-DYYB,,AZACITIDINE
+,,,,,,,,,,,PREDNISONE,Acute myeloid leukaemia,CARBOPLATIN
+CA,1.0,88.0,Pericarditis,Pericarditis,,ABBVIE,2.0,2.0,1.0,20250716.0,USTEKINUMAB,Dementia Alzheimer^s type,RINVOQ
+US,2.0,,Suicidal ideation,Drug abuse,Victim of crime,PURDUE,2.0,2.0,2.0,20250717.0,DUPILUMAB,Secondary immunodeficiency,OXYCODONE HYDROCHLORIDE
+US,2.0,111.0,Abortion spontaneous,Upper respiratory tract congestion,Infusion related reaction,TAKEDA,2.0,2.0,2.0,20250716.0,LAMIVUDINE,Non-Hodgkin^s lymphoma,HUMAN IMMUNOGLOBULIN G
+,,,,,,,,,,,VINCRISTINE SULFATE,Product used for unknown indication,SODIUM OXYBATE
+CA,2.0,,Colitis microscopic,Drug ineffective,,TAKEDA,2.0,2.0,2.0,20250717.0,RELUGOLIX,Fatigue,VEDOLIZUMAB
+US,2.0,,Colitis ulcerative,Exostosis,,TAKEDA,2.0,2.0,2.0,20250717.0,METHOTREXATE SODIUM,Short stature,HUMAN IMMUNOGLOBULIN G\HYALURONIDASE RECOMBINANT HUMAN
+US,1.0,,Suicidal ideation,Overdose,Slow speech,PURDUE,2.0,2.0,2.0,20250717.0,ENOXAPARIN SODIUM,Rheumatoid arthritis,OXYCODONE HYDROCHLORIDE
+US,2.0,,Polycystic ovarian syndrome,Hepatic steatosis,,NOVO NORDISK,2.0,2.0,2.0,20250717.0,OFATUMUMAB,Parkinson^s disease psychosis,WEGOVY
+US,2.0,,Surgery,Impaired quality of life,Asthma,SANOFI AVENTIS,2.0,2.0,1.0,20250717.0,ISTRADEFYLLINE,Psoriasis,DUPIXENT
+ES,1.0,,Neuropathy peripheral,Labelled drug-drug interaction medication error,,PFIZER,2.0,2.0,2.0,20250716.0,PEGASPARGASE,Ocular demodicosis,CISPLATIN
+JP,2.0,,Triple negative breast cancer,,,GILEAD,2.0,2.0,2.0,20250717.0,DUPILUMAB,Eczema,TRODELVY
+,,,,,,,,,,,ESTRADIOL,,BENADRYL
+US,2.0,,Dissociation,Sedation,,JOHNSON AND JOHNSON,2.0,2.0,2.0,20250717.0,INSULIN ASPART,Gallbladder cancer,SPRAVATO
+PL,2.0,103.0,Malignant neoplasm progression,Demyelination,,BRISTOL-MYERS SQUIBB COMPANY,2.0,2.0,2.0,20250717.0,SOMATROPIN,Plasma cell myeloma,NIVOLUMAB
+US,1.0,83.9,Palpitations,,,UNITED THERAPEUTICS,2.0,2.0,2.0,20250717.0,ALBUTEROL,Product used for unknown indication,TYVASO DPI
+GB,1.0,,Mental impairment,Leukopenia,Eosinophil count decreased,MYLAN,2.0,2.0,2.0,20250717.0,EMTRICITABINE\TENOFOVIR DISOPROXIL,Product used for unknown indication,CLOZAPINE
+,,,,,,,,,,,RITUXIMAB-PVVR,,LENVIMA
+,,,,,,,,,,,TIRZEPATIDE,Product used for unknown indication,MOUNJARO
+,2.0,81.0,Anxiety,Depression,,FDA-CTU,2.0,2.0,2.0,20250716.0,DARATUMUMAB,Dry eye,NORTRIPTYLINE
+NL,1.0,,Abscess fungal,Phaeohyphomycosis,,ACCORD,2.0,2.0,1.0,20250717.0,FOSCARBIDOPA\FOSLEVODOPA,Product used for unknown indication,MYCOPHENOLATE MOFETIL
+US,2.0,,Application site papules,Application site exfoliation,,BIOFRONTERA BIOSCIENCE,2.0,2.0,2.0,20250716.0,ZAVEGEPANT HYDROCHLORIDE,Type 2 diabetes mellitus,AMELUZ
+,,,,,,,,,,,UPADACITINIB,Plasma cell myeloma,DUPIXENT
+,,,,,,,,,,,DULOXETINE,,NUPLAZID
+,,,,,,,,,,,DUPILUMAB,Product used for unknown indication,PLUVICTO
+US,2.0,,Migraine,Nausea,,SANOFI AVENTIS,2.0,2.0,2.0,20250717.0,DUPILUMAB,Ovarian cancer,DUPIXENT
+,,,,,,,,,,,ROSUVASTATIN CALCIUM,,OCTREOTIDE
+IT,1.0,,Stevens-Johnson syndrome,Multiple organ dysfunction syndrome,,ACCORD,2.0,2.0,2.0,20250716.0,ISTRADEFYLLINE,Colitis ulcerative,ALLOPURINOL
+RO,,,Agitation,Drug interaction,,RANBAXY,2.0,2.0,2.0,20250716.0,SPARSENTAN,Rheumatoid arthritis,MEMANTINE
+US,,63.0,Drug dose omission by device,Device delivery system issue,Device deposit issue,LUPIN,2.0,2.0,2.0,20250717.0,DUPILUMAB,Gastrooesophageal reflux disease,ALBUTEROL SULFATE
+CA,1.0,,Rib fracture,Frequent bowel movements,Abdominal pain,TAKEDA,2.0,2.0,1.0,20250716.0,VONOPRAZAN FUMARATE,Asthma,VEDOLIZUMAB
+US,,,Dyspnoea,Heart rate abnormal,Product cleaning inadequate,CIPLA,2.0,2.0,2.0,20250717.0,PALIPERIDONE PALMITATE,Renal cancer,ALBUTEROL
+US,2.0,,Death,,,BRISTOL-MYERS SQUIBB COMPANY,1.0,2.0,2.0,20250717.0,KETOPROFEN,Product used for unknown indication,REVLIMID
+,,,,,,,,,,,AVAPRITINIB,Malnutrition,VEDOLIZUMAB
+US,2.0,,Gait inability,Pain,Dysgraphia,PFIZER,2.0,2.0,2.0,20250716.0,HUMAN IMMUNOGLOBULIN G,Psoriasis,XELJANZ XR
+GR,2.0,66.0,Pelvic pain,Loss of personal independence in daily activities,,BAYER HEALTHCARE PHARMACEUTICALS INC.,2.0,1.0,2.0,20250716.0,SOMATROPIN,Product used for unknown indication,YASMIN
+US,2.0,,Pyrexia,Nausea,Injection site pain,AMGEN,2.0,2.0,2.0,20250716.0,DENOSUMAB,Lung neoplasm malignant,PROLIA
+US,,,Dizziness,Feeling abnormal,,ALEXION PHARMACEUTICALS,2.0,2.0,2.0,20250716.0,USTEKINUMAB,Dermatitis atopic,DURVALUMAB
+US,,,Alopecia,Somnolence,,SANOFI AVENTIS,2.0,2.0,2.0,20250717.0,DULAGLUTIDE,Product used for unknown indication,DUPIXENT
+US,1.0,,Chronic kidney disease,Renal failure,,GILEAD,2.0,2.0,2.0,20250716.0,RISANKIZUMAB-RZAA,Attention deficit hyperactivity disorder,TRUVADA
+US,2.0,,Diarrhoea,Liver function test abnormal,Colitis ulcerative,ROCHE,2.0,2.0,2.0,20250716.0,AMLODIPINE BESYLATE,Dermatitis atopic,OCREVUS
+,,,,,,,,,,,ATORVASTATIN,,NAPROXEN
+,,,,,,,,,,,DARUNAVIR ETHANOLATE,Assisted reproductive technology,TYLENOL
+,,,,,,,,,,,ACETAMINOPHEN,,TRIPTORELIN
+US,1.0,,Incorrect dose administered,Product delivery mechanism issue,,APOTEX,2.0,2.0,2.0,20250717.0,LENALIDOMIDE,Anti-neutrophil cytoplasmic antibody positive vasculitis,IPRATROPIUM BROMIDE
+,,,,,,,,,,,URSODIOL,,
+US,2.0,68.18,COVID-19,,,SANOFI AVENTIS,2.0,2.0,2.0,20250716.0,TRIPTORELIN PAMOATE,Nasal polyps,DUPIXENT
+,,,,,,,,,,,CARVEDILOL,Transitional cell carcinoma,GEMCITABINE
+,,,,,,,,,,,POSACONAZOLE,,RINVOQ
+US,2.0,,Drug dose omission by device,Device use error,,PFIZER,2.0,2.0,2.0,20250717.0,PEMBROLIZUMAB,Dermatitis atopic,GENOTROPIN
+CA,2.0,,Rheumatoid arthritis,Arthritis,Limb discomfort,SANOFI AVENTIS,2.0,2.0,2.0,20250717.0,RELUGOLIX,Illness,SARILUMAB
+US,2.0,,Accidental overdose,,,APOTEX,1.0,2.0,2.0,20250716.0,DUPILUMAB,Antidepressant therapy,CITALOPRAM
+US,2.0,6.798,Product administered to patient of inappropriate age,Off label use,,PIERRE FABRE MEDICAMENT,2.0,2.0,2.0,20250717.0,ABATACEPT,Granulomatosis with polyangiitis,HEMANGEOL
+US,2.0,,Tongue neoplasm malignant stage unspecified,Lymphadenectomy,,UCB,2.0,2.0,2.0,20250716.0,RELUGOLIX,Rheumatoid arthritis,CIMZIA
+US,2.0,,Injection site erythema,Product dose omission issue,,ELI LILLY AND COMPANY,2.0,2.0,2.0,20250717.0,PEMBROLIZUMAB,Contraception,MOUNJARO
+,,,,,,,,,,,TREPROSTINIL,,
+,,,,,,,,,,,METHOTREXATE,,
+US,2.0,,Femur fracture,Emotional distress,Low turnover osteopathy,ROCHE,,,1.0,20250716.0,DICLOFENAC SODIUM,Asthma,BONIVA
+GB,2.0,,Joint stiffness,Rash,,INSUD PHARMA,2.0,2.0,2.0,20250717.0,METOPROLOL,Relapsing-remitting multiple sclerosis,LANSOPRAZOLE
+US,2.0,,Vaginal haemorrhage,Amenorrhoea,,ORGANON,2.0,2.0,2.0,20250717.0,FOSCARBIDOPA\FOSLEVODOPA,Non-Hodgkin^s lymphoma,NEXPLANON
+CA,2.0,18.0,Aplastic anaemia,Mucosal inflammation,,APOTEX,2.0,2.0,2.0,20250717.0,LIDOCAINE,Crohn^s disease,BUSULFAN
+,,,,,,,,,,,DENOSUMAB,,
+US,2.0,,Drug hypersensitivity,,,SANOFI AVENTIS,2.0,2.0,2.0,20250717.0,ANIFROLUMAB,Product used for unknown indication,DUPIXENT
+,2.0,49.5,Headache,Loss of personal independence in daily activities,,FDA-CTU,2.0,2.0,2.0,20250716.0,DUPILUMAB,Product used for unknown indication,ESZOPICLONE
+US,2.0,54.422,Haematochezia,Condition aggravated,Anal skin tags,ORGANON,2.0,2.0,2.0,20250716.0,MEPOLIZUMAB,Diverticulitis,NEXPLANON
+,,,,,,,,,,,MOMETASONE FUROATE,,ZEPBOUND
+US,1.0,,Intestinal angioedema,,,SCIEGEN PHARMACEUTICALS INC,2.0,2.0,1.0,20250716.0,ACETAMINOPHEN,Product used for unknown indication,LISINOPRIL
+JP,1.0,,Peripheral sensory neuropathy,Nail injury,,ABBVIE,2.0,2.0,2.0,20250717.0,ARIPIPRAZOLE,Anxiety,IMBRUVICA
+,,,,,,,,,,,CHOLECALCIFEROL,,
+US,2.0,,Diarrhoea,Abdominal distension,Pain,CORIUM,2.0,2.0,2.0,20250717.0,CERTOLIZUMAB PEGOL,Malignant melanoma,AZSTARYS
+US,1.0,9.9,Human rhinovirus test positive,Enterovirus test positive,Intensive care,UCB,2.0,2.0,1.0,20250716.0,TACROLIMUS,Rheumatoid arthritis,FINTEPLA
+,,,,,,,,,,,BIVALIRUDIN,,PREDNISONE
+US,,,Rash,,,ABBVIE,2.0,2.0,2.0,20250716.0,DUPILUMAB,Breast cancer female,RISANKIZUMAB
+,,,,,,,,,,,ADALIMUMAB,Type 2 diabetes mellitus,GEMCITABINE
+,,,,,,,,,,,ACETAMINOPHEN,HIV infection,LACOSAMIDE
+US,2.0,,Device physical property issue,,,PFIZER,2.0,2.0,2.0,20250716.0,MIDAZOLAM HYDROCHLORIDE,Colitis ulcerative,GENOTROPIN
+,,,,,,,,,,,INSULIN LISPRO,Product used for unknown indication,ORGOVYX
+US,1.0,,Death,,,AMGEN,1.0,2.0,2.0,20250717.0,RISANKIZUMAB-RZAA,Psoriasis,KRYSTEXXA
+,,,,,,,,,,,VENLAFAXINE HYDROCHLORIDE,,METHOTREXATE
+US,2.0,,Drug ineffective,,,MYLAN,2.0,2.0,1.0,20250717.0,USTEKINUMAB,Dermatitis atopic,EPINEPHRINE
+,,,,,,,,,,,"ANTIHEMOPHILIC FACTOR, HUMAN RECOMBINANT",,FLUCLOXACILLIN
+,,,,,,,,,,,CORTICOTROPIN,Product used for unknown indication,ORGOVYX
+US,,,Neuropathy peripheral,,,GLAND PHARMA,2.0,2.0,2.0,20250716.0,TOLVAPTAN,Colon cancer,OXALIPLATIN
+US,,,Product temperature excursion issue,,,ABBVIE,2.0,2.0,2.0,20250716.0,DOLUTEGRAVIR SODIUM,Product used for unknown indication,HUMIRA
+,,,,,,,,,,,CARIPRAZINE,Injury,OPSUMIT
+,,,,,,,,,,,INSULIN GLARGINE,Calcineurin inhibitor induced pain syndrome,METFORMIN
+CN,,,Respiratory depression,Off label use,,Kenvue,2.0,2.0,2.0,20250716.0,RISANKIZUMAB-RZAA,Product used for unknown indication,CHILDRENS MOTRIN
+,,,,,,,,,,,CARBIDOPA\LEVODOPA,,MABTHERA
+,,,,,,,,,,,INFLIXIMAB-DYYB,,
+,,,,,,,,,,,CYCLOSPORINE,,MONTELUKAST SODIUM

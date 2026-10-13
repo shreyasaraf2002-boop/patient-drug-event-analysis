@@ -1,0 +1,12 @@
+metric,value
+source_rows,670808
+source_columns,14
+known_death_outcomes,377392
+death_reports,27904
+non_death_reports,349488
+unknown_death_outcomes,293416
+exact_duplicate_source_rows,80659
+hospitalization_flagged,81362
+disabling_flagged,6134
+invalid_or_missing_weight,602178
+invalid_or_missing_date,277909

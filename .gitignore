@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+data/raw/*
+data/processed/*
+data/synthetic/*
+!**/.gitkeep
+models/*
+!models/.gitkeep
+outputs/logs/
+outputs/.matplotlib/
+*.zip
+.ipynb_checkpoints/
