@@ -105,15 +105,14 @@ This is educational retrospective report classification. Reactions can describe 
 
 ## GitHub preparation
 
-The project is ready to review locally. `.gitignore` excludes the source, cleaned and synthetic full data, environments and model binaries. The matching original classroom slide deck is included under `presentation/`; see `presentation/README.md` for its verified title and authors.
+Repository: [shreyasaraf2002-boop/patient-drug-event-analysis](https://github.com/shreyasaraf2002-boop/patient-drug-event-analysis). `.gitignore` excludes the source, cleaned and synthetic full data, environments and model binaries. The matching original classroom slide deck is included under `presentation/`; see `presentation/README.md` for its verified title and authors.
 
 ```powershell
 git status --short
 git add .
 git status --short
 git commit -m "Build patient drug event analysis"
-git remote add origin https://github.com/YOUR-USERNAME/patient-drug-event-analysis.git
-git push -u origin HEAD
+git push origin main
 ```
 
 Check staged files before publishing, including whether you want to publish the real 200-row sample. No remote repository or push is required for running the project.

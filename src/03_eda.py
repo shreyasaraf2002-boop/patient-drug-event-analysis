@@ -5,4 +5,3 @@ from src.project import main
 
 if __name__ == '__main__':
     main(['eda', *sys.argv[1:]])
-

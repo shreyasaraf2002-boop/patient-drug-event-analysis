@@ -10,7 +10,7 @@ Plot images were reviewed for readable axes, labels and confusion matrices. The 
 
 The Colab notebook has 20 cells and embeds the shared module. Its Python cells were compiled locally; it was not executed in a live Colab runtime. The optional synthetic generator was validated on a small file; the optional 1 GB experiment was left disabled as specified by the guide.
 
-The archive is integrity-checked and excludes the full raw/processed/synthetic datasets and local Python environment. `.gitignore` was verified for full datasets, the environment and model binaries. No GitHub repository was created or published.
+The archive is integrity-checked and excludes the full raw/processed/synthetic datasets and local Python environment. `.gitignore` was verified for full datasets, the environment and model binaries. GitHub publication uses the same reviewed project files, sample data and measured outputs.
 
 ## Repeat checks
 
